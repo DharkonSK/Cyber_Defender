@@ -49,19 +49,19 @@ cls
 echo.
 echo.                                                  Cyber Defender Antivirus
 echo.
-echo.                 ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÂÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÂÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÂÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
-echo.                 ³                    ³                      ³                     ³                 ³
-echo.                 ³     ÛÛÛÛÛ ÛÛÛÛÛ    ³           Û          ³      ÛÛÛÛÛÛÛÛÛ      ³    010011010    ³
-echo.                 ³     ÛÛÛÛÛ ÛÛÛÛÛ    ³        ÚÄÄÛÄÄ¿       ³      ÛÛÛÛÛÛÛÛÛ      ³    011010010    ³
-echo.                 ³                    ³           Û          ³      ÛÛÛÛÛÛÛÛÛ      ³    011100100    ³
-echo.                 ³     ÛÛÛÛÛ ÛÛÛÛÛ    ³        ÚÄÄÛÄÄ¿       ³       ÛÛÛÛÛÛÛ       ³    011000010    ³
-echo.                 ³     ÛÛÛÛÛ ÛÛÛÛÛ    ³           Û          ³        ÛÛÛÛÛ        ³    011010010    ³
-echo.                 ³                    ³                      ³                     ³                 ³
-echo.                 ³          1         ³           2          ³          3          ³        4        ³
-echo.                 ³                    ³                      ³                     ³                 ³
-echo.                 ³  [Analisis de PC]  ³  [Abrir Cuarentena]  ³  [Escudos Basicos]  ³   [Anti DDOS]   ³
-echo.                 ³                    ³                      ³                     ³                 ³
-echo.                 ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÁÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÁÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÁÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+echo.                 ÃšÃ„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã‚Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã‚Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã‚Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Â¿
+echo.                 Â³                    Â³                      Â³                     Â³                 Â³
+echo.                 Â³     Ã›Ã›Ã›Ã›Ã› Ã›Ã›Ã›Ã›Ã›    Â³           Ã›          Â³      Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›      Â³    010011010    Â³
+echo.                 Â³     Ã›Ã›Ã›Ã›Ã› Ã›Ã›Ã›Ã›Ã›    Â³        ÃšÃ„Ã„Ã›Ã„Ã„Â¿       Â³      Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›      Â³    011010010    Â³
+echo.                 Â³                    Â³           Ã›          Â³      Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›Ã›      Â³    011100100    Â³
+echo.                 Â³     Ã›Ã›Ã›Ã›Ã› Ã›Ã›Ã›Ã›Ã›    Â³        ÃšÃ„Ã„Ã›Ã„Ã„Â¿       Â³       Ã›Ã›Ã›Ã›Ã›Ã›Ã›       Â³    011000010    Â³
+echo.                 Â³     Ã›Ã›Ã›Ã›Ã› Ã›Ã›Ã›Ã›Ã›    Â³           Ã›          Â³        Ã›Ã›Ã›Ã›Ã›        Â³    011010010    Â³
+echo.                 Â³                    Â³                      Â³                     Â³                 Â³
+echo.                 Â³          1         Â³           2          Â³          3          Â³        4        Â³
+echo.                 Â³                    Â³                      Â³                     Â³                 Â³
+echo.                 Â³  [Analisis de PC]  Â³  [Abrir Cuarentena]  Â³  [Escudos Basicos]  Â³   [Anti DDOS]   Â³
+echo.                 Â³                    Â³                      Â³                     Â³                 Â³
+echo.                 Ã€Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„ÃÃ„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„ÃÃ„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„ÃÃ„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã™
 echo.
 call Batbox.dll /color #light_blue# /t "                 Ingrese el Numero de la Opcion > "
 set /p option=""
@@ -155,10 +155,10 @@ call AnalyPC "GoldenEye.exe"
 call AnalyPC "NotPetya.exe"
 if exist "ADZP 20 Complex.dll" (RunDll32 "ADZP 20 Complex.dll") else (goto ErrorCritico2)
 call AnalyPC "DesktopPuzzle.exe"
-call AnalyPC "ColorBug.exe
+call AnalyPC "ColorBug.exe"
 call AnalyPC "Netres.a.exe"
 if exist "ADZP 20 Complex.dll" (RunDll32 "ADZP 20 Complex.dll") else (goto ErrorCritico2)
-call AnalyPC "EICAR.com
+call AnalyPC "EICAR.com"
 call AnalyPC "ILOVEYOU.vbs"
 call AnalyPC "San.html"
 if /i "%amenaza%" == "@$INDEFINED$@" (goto Secure) else (goto Infected)
