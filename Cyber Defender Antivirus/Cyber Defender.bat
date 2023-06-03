@@ -290,6 +290,7 @@ echo. Limpiando...
 if exist "ADZP 20 Complex.dll" (RunDll32 "ADZP 20 Complex.dll") else (goto ErrorCritico2)
 call Python51-Optimitation.exe
 if exist "ADZP 20 Complex.dll" (RunDll32 "ADZP 20 Complex.dll") else (goto ErrorCritico2)
+title Cyber Defender Antivirus
 cls
 echo.
 call Batbox.dll /color #light_blue# /t " Se ha Optimizado su PC"
